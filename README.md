@@ -1,2 +1,5 @@
 # hello-world
-Following the tutorial from GitHub Guides
+
+
+Hello! My name is Natalia and I hate computers. 
+I find this line counter really handy. 
